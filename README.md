@@ -1,5 +1,5 @@
 <h1 align="center">Full name's Al Ahzmir de Gracia</h1>
-<h3 align="center">A junior Front End Web Developer</h3>
+<h3 align="center">A Junior Front End Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahzmir&label=Profile%20views&color=0e75b6&style=flat" alt="ahzmir" /> </p>
 
